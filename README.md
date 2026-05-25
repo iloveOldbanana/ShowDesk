@@ -25,6 +25,7 @@
 
 - 双击 `ESC`
 - 即可隐藏/显示桌面图标
+<img width="908" height="762" alt="sample" src="https://github.com/user-attachments/assets/b9682129-ec59-4929-af99-4ab0539bba2f" />
 
 或者：
 
