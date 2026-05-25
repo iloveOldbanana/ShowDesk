@@ -6,14 +6,13 @@
 - 双击 `ESC` 隐藏/显示桌面图标
 - 托盘图标支持
 - 开机自动启动
-- 防止重复运行
 - 兼容 Wallpaper Engine、TranslucentTB等桌面美化软件
 - 后台静默运行
 - 低内存占用
 
 ## 为什么使用 C# 而不是 AutoHotkey？
 
-本项目灵感来源于 AutoHotkey 版本的 DeskHider：。https://github.com/iandiv/DeskHider
+本项目灵感来源于 AutoHotkey 版本的 DeskHider：https://github.com/iandiv/DeskHider
 
 后来重写为 C# 版本，主要原因：
 
