@@ -1,4 +1,5 @@
 # ShowDesk
+
 - 这是使用C#编写的简单托盘菜单程序，只需双击Esc即可隐藏、显示桌面图标。
 
 ## 功能
@@ -18,6 +19,9 @@
 
 - 相比 AHK 打包程序，C# WinForms是非常标准的 Windows 桌面程序形式。更不容易被安全软件误报造成误删
 
+## Download
+
+- https://github.com/iloveOldbanana/ShowDesk/releases/tag/v1.0.0
 
 ## 使用方式
 
